@@ -1,0 +1,146 @@
+#moh
+{
+display: flex;
+justify-content: space-around;
+}
+#jj
+{
+    display: flex;
+    justify-content: space-between;
+}
+.pp
+{
+    font-size:100px; 
+}
+.do{
+    color: teal;
+}
+.jol
+{
+    text-align: center;
+color: rgb(77, 197, 197);
+}
+#hh
+{
+display: flex;
+justify-content: space-evenly;
+color: teal;
+}
+#gg
+{
+display: flex;
+justify-content: space-evenly;
+}
+.de
+{
+    background-color: teal;
+    border-radius: 20px;
+    font-size: 30px;
+    color:white;
+    text-align: center;
+}
+.da
+{
+    background-color:blueviolet;
+    border-radius: 20px;
+    font-size: 30px;
+    color:white;
+    text-align: center;
+}
+.di
+{
+    background-color:black;
+    text-align: center;
+    border-radius: 20px;
+    font-size: 30px;
+    color:white;  
+}
+.hole
+{
+    text-align: right;
+}
+
+#rr
+{
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 30px ;
+ justify-content: space-around;
+ color: thistle;
+}
+
+.go
+{ 
+    
+    font-size: 20px;
+}
+#uuu
+{
+    background-color: teal;
+}
+.how
+{
+    font-size: 100px;
+    color: thistle;
+    text-align: left;
+}
+.li
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    color:thistle;
+}
+.ht {
+    display: flex;
+    width: 1200px; 
+    justify-content:space-between  ;
+    margin: 70px;
+    border:12px ;
+  
+    flex-wrap: wrap;
+  }
+  .qe
+  {
+      text-align: center;
+  }
+  button
+  {
+      background-color: blue;
+  }
+  img{
+      margin: 5px;
+  }
+  .drop{
+      color: black;
+  }
+  .link > a
+  {
+      margin-right: 10px;
+      color: thistle;
+     font-size: 25px;
+  }
+  .link>a:hover
+  {
+      color: yellow ;
+  }
+  .bb
+  {
+      display: flex;
+      justify-content: space-between;
+  }
+  .so
+  {
+      color: teal;
+      text-align: center;
+  }
+  .kk
+  {
+      display: flex;
+      justify-content: space-between    ;
+  }
+  .rr:hover
+  {
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px;
+  }
